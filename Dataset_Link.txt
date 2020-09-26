@@ -1,3 +1,0 @@
-Dataset used in this Capstone Project is: IMS (Intelligent Maintenance Systems) Bearing Dataset.
-IMS Bearing Dataset is available in the NASA Prognostics Center of Excellence (PCoE) Data Repository.
-Link for the Dataset: https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/
